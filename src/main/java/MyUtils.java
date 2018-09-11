@@ -1,7 +1,7 @@
 public class MyUtils {
 
     public static int getTwo(){
-        return 3;
+        return 4;
     }
 
 }
